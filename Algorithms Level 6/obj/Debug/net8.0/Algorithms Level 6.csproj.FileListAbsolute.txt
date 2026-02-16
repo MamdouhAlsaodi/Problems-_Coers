@@ -1,0 +1,14 @@
+C:\Users\mamdo\source\repos\Algorithms Level 6\bin\Debug\net8.0\Algorithms Level 6.exe
+C:\Users\mamdo\source\repos\Algorithms Level 6\bin\Debug\net8.0\Algorithms Level 6.deps.json
+C:\Users\mamdo\source\repos\Algorithms Level 6\bin\Debug\net8.0\Algorithms Level 6.runtimeconfig.json
+C:\Users\mamdo\source\repos\Algorithms Level 6\bin\Debug\net8.0\Algorithms Level 6.dll
+C:\Users\mamdo\source\repos\Algorithms Level 6\bin\Debug\net8.0\Algorithms Level 6.pdb
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.AssemblyInfoInputs.cache
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.AssemblyInfo.cs
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.csproj.CoreCompileInputs.cache
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.dll
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\refint\Algorithms Level 6.dll
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.pdb
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\Algorithms Level 6.genruntimeconfig.cache
+C:\Users\mamdo\source\repos\Algorithms Level 6\obj\Debug\net8.0\ref\Algorithms Level 6.dll
