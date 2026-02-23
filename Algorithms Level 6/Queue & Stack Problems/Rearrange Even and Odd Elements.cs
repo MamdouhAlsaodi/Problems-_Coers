@@ -43,13 +43,13 @@ namespace Algorithms_Level_6.Queue___Stack_Problems
         }
 
 
-        static void Main()
-        {
-            Queue<int> queue = new Queue<int>(new[] { 1, 2, 3, 4, 5, 6 });
-            Queue<int> rearrangedQueue = RearrangeEvenOdd(queue);
-            Console.WriteLine(string.Join(", ", rearrangedQueue)); // Output: 2, 4, 1, 3, 5,6
-            Console.ReadKey();
-        }
+        //static void Main()
+        //{
+        //    Queue<int> queue = new Queue<int>(new[] { 1, 2, 3, 4, 5, 6 });
+        //    Queue<int> rearrangedQueue = RearrangeEvenOdd(queue);
+        //    Console.WriteLine(string.Join(", ", rearrangedQueue)); // Output: 2, 4, 1, 3, 5,6
+        //    Console.ReadKey();
+        //}
     }
 }
 
