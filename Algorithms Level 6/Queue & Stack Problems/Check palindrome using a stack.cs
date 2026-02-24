@@ -34,18 +34,18 @@ namespace Algorithms_Level_6.Queue___Stack_Problems
         }
 
 
-        static void Main()
-        {
-            string input = "madam";
-            Console.WriteLine($"Is \"{input}\" a palindrome? {IsPalindrome(input)}");
+        //static void Main()
+        //{
+        //    string input = "madam";
+        //    Console.WriteLine($"Is \"{input}\" a palindrome? {IsPalindrome(input)}");
 
 
-            input = "hello";
-            Console.WriteLine($"Is \"{input}\" a palindrome? {IsPalindrome(input)}");
+        //    input = "hello";
+        //    Console.WriteLine($"Is \"{input}\" a palindrome? {IsPalindrome(input)}");
 
 
-            Console.ReadKey();
+        //    Console.ReadKey();
 
-        }
+        //}
     }
 }
