@@ -52,10 +52,10 @@ namespace Algorithms_Level_6.Queue___Stack_Problems
             return result;
         }
 
-        static void Main()
-        {
-            Console.WriteLine(Calculate("1 + (5 - 3)")); // Output: 3
-            Console.ReadKey();
-        }
+        //static void Main()
+        //{
+        //    Console.WriteLine(Calculate("1 + (5 - 3)")); // Output: 3
+        //    Console.ReadKey();
+        //}
     }
 }
